@@ -165,7 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        Sadhinrana\Contact\ContactServiceProvider::class,
         /*
          * Application Service Providers...
          */

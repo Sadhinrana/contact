@@ -1,0 +1,19 @@
+{
+    "name": "sadhinrana/contact",
+    "description": "It will send email to user.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sadhin Rana",
+            "email": "smsadhin123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sadhinrana\\Contact\\": "src/"
+        }
+    }
+}

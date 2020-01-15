@@ -41,7 +41,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/"
+            "Tests\\": "tests/",
+            "Sadhinrana\\Contact\\": "package/contact/src/"
         }
     },
     "minimum-stability": "dev",
